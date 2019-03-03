@@ -7,10 +7,7 @@
 ###### 这是六级标题
 
 【2】文字加下划线
-++command_u++```language
-
-```
-
+++command_u++
 
 【3】强调
 **hello**
